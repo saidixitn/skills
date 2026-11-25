@@ -58,6 +58,8 @@ curl -fsSL https://raw.githubusercontent.com/saidixitn/skills/main/install.sh | 
 
 ---
 
+| **`stripe-subscriptions`** | Payments | Use when architecting Stripe billing integrations, handling webhook signatures, managing customer checkout sessions, preventing duplicate charges with idempotency keys, or configuring portal redirects. | `npx degit saidixitn/skills/skills/stripe-subscriptions ~/.gemini/config/skills/stripe-subscriptions` |
+
 ## 🔒 Confidentiality & Zero-Leak Security
 
 Every skill in this repository is scrubbed of private keys, hardcoded passwords, active database URIs, personal email addresses, and origin IP addresses. 

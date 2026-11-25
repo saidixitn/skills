@@ -200,5 +200,23 @@
       "/Users/saidixitnaidu/Downloads/Dixit-Archives/gemini.md"
     ],
     "summary": "Autonomous agent operational rules, read-before-write protocols, cookbook standards, anti-slop guidelines"
+  },
+  {
+    "name": "stripe-subscriptions",
+    "category": "Payments",
+    "status": "completed",
+    "summary": "Use when architecting Stripe billing integrations, handling webhook signatures, managing customer checkout sessions, preventing duplicate charges with idempotency keys, or configuring portal redirects."
+  },
+  {
+    "name": "redis-caching",
+    "category": "Backend",
+    "status": "pending",
+    "summary": "Use when engineering sub-millisecond Redis or Upstash caching layers, implementing token bucket rate-limiters, managing session stores, or setting cache invalidation TTL policies."
+  },
+  {
+    "name": "docker-microservices",
+    "category": "Infra",
+    "status": "pending",
+    "summary": "Use when architecting multi-stage Docker container builds, composing multi-service stacks (FastAPI, Node, Mongo, Redis), configuring healthchecks, and managing non-root security."
   }
 ]
