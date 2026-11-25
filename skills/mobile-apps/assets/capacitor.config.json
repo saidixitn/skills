@@ -1,0 +1,8 @@
+{
+  "appId": "com.saidixit.app",
+  "appName": "MobileApp",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
