@@ -31,7 +31,7 @@
   {
     "name": "minimal-design",
     "category": "Creative",
-    "status": "pending",
+    "status": "completed",
     "sources": [
       "/Users/saidixitnaidu/Downloads/website/DESIGN_SYSTEM.md",
       "/Users/saidixitnaidu/Downloads/x_clone",
@@ -42,7 +42,7 @@
   {
     "name": "server-handling",
     "category": "Infra",
-    "status": "pending",
+    "status": "completed",
     "sources": [
       "/Users/saidixitnaidu/Downloads/vps/run_backup.sh",
       "/Users/saidixitnaidu/Downloads/pm2-vps",
@@ -53,7 +53,7 @@
   {
     "name": "automated-backups",
     "category": "Infra",
-    "status": "pending",
+    "status": "completed",
     "sources": [
       "/Users/saidixitnaidu/Downloads/vps/backup_script.py",
       "/Users/saidixitnaidu/Downloads/vps/run_backup.sh",
