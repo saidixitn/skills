@@ -1,0 +1,29 @@
+{
+  "name": "@saidixitn/skills",
+  "version": "1.0.0",
+  "description": "Production-grade, zero-slop skills for autonomous AI coding agents (Antigravity, ClawHub, Claude Code, Copilot)",
+  "keywords": [
+    "ai-agent",
+    "skills",
+    "clawhub",
+    "antigravity",
+    "claude-code",
+    "codex",
+    "google-sheets",
+    "mongodb",
+    "animations",
+    "automation",
+    "vps"
+  ],
+  "author": "Sai Dixit Naidu <saidixitn@gmail.com> (https://saidixit.vercel.app/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saidixitn/skills.git"
+  },
+  "homepage": "https://github.com/saidixitn/skills#readme",
+  "scripts": {
+    "audit": "python3 scripts/audit_secrets.py",
+    "test": "npm run audit"
+  }
+}

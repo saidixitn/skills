@@ -1,0 +1,204 @@
+[
+  {
+    "name": "google-sheets",
+    "category": "Data",
+    "status": "completed",
+    "summary": "Automated bi-directional DB sync, batch cell updates, token auto-refresh"
+  },
+  {
+    "name": "mongodb",
+    "category": "Data",
+    "status": "completed",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps",
+      "/Users/saidixitnaidu/Downloads/job-insights",
+      "antigravity-nodejs",
+      "Dixit-Archives/gemini.md"
+    ],
+    "summary": "Multi-tenant query optimization, compound indexing, 100MB RAM spill protection, cursor streaming, dual-mode connections"
+  },
+  {
+    "name": "animations",
+    "category": "Creative",
+    "status": "completed",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/Darshan_Portfolio/ARCHITECTURE.md",
+      "/Users/saidixitnaidu/Downloads/Poulo",
+      "/Users/saidixitnaidu/Downloads/spek-grab-20260914/spek-app"
+    ],
+    "summary": "Zero-framework 60-120fps motion physics, GSAP Timelines, ScrollTrigger, Lenis smooth scrolling, anti-FOUC routing"
+  },
+  {
+    "name": "minimal-design",
+    "category": "Creative",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/website/DESIGN_SYSTEM.md",
+      "/Users/saidixitnaidu/Downloads/x_clone",
+      "/Users/saidixitnaidu/Downloads/Dixit-Portfolio"
+    ],
+    "summary": "Obsidian Modernism dark design system, void-first canvas, subtle border tokens, responsive typography scales"
+  },
+  {
+    "name": "server-handling",
+    "category": "Infra",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps/run_backup.sh",
+      "/Users/saidixitnaidu/Downloads/pm2-vps",
+      "vps-automations"
+    ],
+    "summary": "Linux VPS setup, PM2 process management for persistent Python/Node daemons, auto-restart policies, log rotation"
+  },
+  {
+    "name": "automated-backups",
+    "category": "Infra",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps/backup_script.py",
+      "/Users/saidixitnaidu/Downloads/vps/run_backup.sh",
+      "/Users/saidixitnaidu/Downloads/vps/backup_system"
+    ],
+    "summary": "MongoDB dumps, tar compression, Google Drive upload with Drive Service Account Quota Transfer hack"
+  },
+  {
+    "name": "website-builder",
+    "category": "Creative",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/website",
+      "/Users/saidixitnaidu/Downloads/Darshan_Portfolio",
+      "/Users/saidixitnaidu/Downloads/Darshan-Portfolio/server.js"
+    ],
+    "summary": "Sub-100ms TTI static site architecture, zero hydration lag, pure ES Modules, speculative hover pre-warming"
+  },
+  {
+    "name": "api-builder",
+    "category": "Backend",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps/API_DOCUMENTATION.md",
+      "/Users/saidixitnaidu/Downloads/job-insights/server.js",
+      "antigravity-nodejs"
+    ],
+    "summary": "FastAPI & Express unified REST gateway, dependency injection, CORS middleware, OpenAPI schemas"
+  },
+  {
+    "name": "cloudflare-proxy",
+    "category": "Infra",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps/cloudflare-worker",
+      "/Users/saidixitnaidu/Downloads/vps/Proxy"
+    ],
+    "summary": "Cloudflare Workers edge reverse proxy, origin IP shielding, SSL termination, request header sanitization"
+  },
+  {
+    "name": "web-scraper",
+    "category": "Automation",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/Poulo/scrape.js",
+      "/Users/saidixitnaidu/Downloads/vps/scrape_hotels.py",
+      "Job-Posting-Alerts"
+    ],
+    "summary": "Resilient Puppeteer/Requests scraping, user-agent rotation, proxy pool round-robin, rate-limit backoff"
+  },
+  {
+    "name": "analytics-tracker",
+    "category": "Analytics",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/job-insights/clicks_analytics",
+      "/Users/saidixitnaidu/Downloads/job-insights/v.js"
+    ],
+    "summary": "Lightweight 1.8KB first-party tracking pixel v.js, navigator.sendBeacon, real-time Mongo/Postgres click ingestion"
+  },
+  {
+    "name": "domain-monitor",
+    "category": "Monitoring",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps/dc_expires.py",
+      "/Users/saidixitnaidu/Downloads/pm2-vps/domain_expires_new.py"
+    ],
+    "summary": "Automated WHOIS checking, domain & SSL certificate expiry date alerting via background cron"
+  },
+  {
+    "name": "email-reports",
+    "category": "Automation",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps/stats_email.py",
+      "/Users/saidixitnaidu/Downloads/pm2-vps/core"
+    ],
+    "summary": "Scheduled HTML analytics performance digests via Flask-Mail/SMTP, KPI cards, multi-SMTP fallback delivery"
+  },
+  {
+    "name": "bigquery",
+    "category": "Data",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps/bigquery",
+      "/Users/saidixitnaidu/Downloads/pm2-vps/requirements.txt"
+    ],
+    "summary": "Ingestion pipelines, partitioned tables by date, cost-efficient SQL batch transforms from MongoDB"
+  },
+  {
+    "name": "data-pipelines",
+    "category": "Data",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps/updates.py",
+      "/Users/saidixitnaidu/Downloads/pm2-vps/semrush_job_stats.py"
+    ],
+    "summary": "Vectorized Pandas/NumPy ETL routines, schema normalization, converting between Mongo, CSV, and Excel"
+  },
+  {
+    "name": "seo-automation",
+    "category": "Automation",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps/search_console",
+      "/Users/saidixitnaidu/Downloads/pm2-vps/semrush_job_stats.py"
+    ],
+    "summary": "Google Search Console API indexing submission, SEMrush rank change scrapers"
+  },
+  {
+    "name": "mobile-apps",
+    "category": "Mobile",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/daybook"
+    ],
+    "summary": "Scaffolding cross-platform Android/iOS apps from web codebases using Capacitor, offline service workers"
+  },
+  {
+    "name": "macos-apps",
+    "category": "Native",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/glance/glance.xcodeproj"
+    ],
+    "summary": "Native macOS menu bar utility apps in Swift/Xcode, background polling, NSStatusItem"
+  },
+  {
+    "name": "api-testing",
+    "category": "Testing",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/vps/Dixit-APIs.postman_collection.json"
+    ],
+    "summary": "Postman collection architecture, environment variables, Newman CLI automated test execution"
+  },
+  {
+    "name": "agent-rules",
+    "category": "Agentic",
+    "status": "pending",
+    "sources": [
+      "/Users/saidixitnaidu/Downloads/Dixit-Archives/AGENTS.md",
+      "/Users/saidixitnaidu/Downloads/Dixit-Archives/gemini.md"
+    ],
+    "summary": "Autonomous agent operational rules, read-before-write protocols, cookbook standards, anti-slop guidelines"
+  }
+]

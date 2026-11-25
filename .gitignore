@@ -1,0 +1,36 @@
+# Dependencies & OS
+node_modules/
+.DS_Store
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment & Credentials (NEVER COMMIT)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+*.p12
+*.json_creds*
+service_account*.json
+credentials.json
+client_secret*.json
+
+# Python Virtual Environments & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.ruff_cache/
+
+# Local Agent Drafts
+drafts/
+.gemini/
+.claude/
+.agents/
