@@ -210,7 +210,7 @@
   {
     "name": "redis-caching",
     "category": "Backend",
-    "status": "pending",
+    "status": "completed",
     "summary": "Use when engineering sub-millisecond Redis or Upstash caching layers, implementing token bucket rate-limiters, managing session stores, or setting cache invalidation TTL policies."
   },
   {
