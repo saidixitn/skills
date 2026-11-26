@@ -62,6 +62,8 @@ curl -fsSL https://raw.githubusercontent.com/saidixitn/skills/main/install.sh | 
 
 | **`redis-caching`** | Backend | Use when engineering sub-millisecond Redis or Upstash caching layers, implementing token bucket rate-limiters, managing session stores, or setting cache invalidation TTL policies. | `npx degit saidixitn/skills/skills/redis-caching ~/.gemini/config/skills/redis-caching` |
 
+| **`docker-microservices`** | Infra | Use when architecting multi-stage Docker container builds, composing multi-service stacks (FastAPI, Node, Mongo, Redis), configuring healthchecks, and managing non-root security. | `npx degit saidixitn/skills/skills/docker-microservices ~/.gemini/config/skills/docker-microservices` |
+
 ## 🔒 Confidentiality & Zero-Leak Security
 
 Every skill in this repository is scrubbed of private keys, hardcoded passwords, active database URIs, personal email addresses, and origin IP addresses. 

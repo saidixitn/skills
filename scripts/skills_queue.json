@@ -216,7 +216,7 @@
   {
     "name": "docker-microservices",
     "category": "Infra",
-    "status": "pending",
+    "status": "completed",
     "summary": "Use when architecting multi-stage Docker container builds, composing multi-service stacks (FastAPI, Node, Mongo, Redis), configuring healthchecks, and managing non-root security."
   }
 ]
